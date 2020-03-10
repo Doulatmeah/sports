@@ -1,4 +1,4 @@
 #EXTM3U 
 #EXT-X-VERSION:3 
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1603036
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
 http://edge.apigate.pro/channel1/ngrp:myStream_all/chunklist_b664000.m3u8
