@@ -1,0 +1,63 @@
+#EXTM3U
+#EXTINF:-1,Sky sport hd 5 premiere league
+http://95.170.215.120/hls/m3u8/Sky-Sports-5HD.m3u8
+#EXTINF:-1,C-more SPORTS
+http://95.170.215.120/hls/m3u8/CMore-Sport.m3u8
+#EXTINF:-1,CT SPORT
+http://95.170.215.118/hls/m3u8/CT-Sport.m3u8
+#EXTINF:-1,BT sport Hd 1
+http://95.170.215.120/hls/m3u8/BT-Sport-1HD.m3u8
+#EXTINF:-1,BT sport Hd 2
+http://95.170.215.120/hls/m3u8/BT-Sport-2HD.m3u8
+#EXTINF:-1,Eurosport HD 1
+http://95.170.215.118/hls/m3u8/EURO-Sport-1.m3u8
+#EXTINF:-1,Eurosport HD 2
+http://95.170.215.118/hls/m3u8/EURO-Sport-2.m3u8
+#EXTINF:-1,Fox sport hd 1
+http://95.170.215.118/hls/m3u8/Fox-Sport-1.m3u8
+#EXTINF:-1,Bein HD 1
+http://95.170.215.120/hls/m3u8/BeinSport1.m3u8
+#EXTINF:-1,Bein HD 2
+http://95.170.215.120/hls/m3u8/BeinSport2.m3u8
+#EXTINF:-1, BEIN HD 3
+http://95.170.215.120/hls/m3u8/BeinSport3.m3u8
+#EXTINF:-1, BEIN HD 4
+http://95.170.215.120/hls/m3u8/BeinSport4.m3u8
+#EXTINF:-1, BEIN HD 5
+http://95.170.215.120/hls/m3u8/BeinSport5.m3u8
+#EXTINF:-1, BEIN HD 6
+http://95.170.215.120/hls/m3u8/BeinSport6.m3u8
+#EXTINF:-1, BEIN HD 7
+http://95.170.215.120/hls/m3u8/BeinSport7.m3u8
+#EXTINF:-1, BEIN HD 8
+http://95.170.215.120/hls/m3u8/BeinSport8.m3u8
+#EXTINF:-1,BEIN HD 9
+http://95.170.215.120/hls/m3u8/BeinSport9.m3u8
+#EXTINF:-1, BEIN HD 10
+http://95.170.215.120/hls/m3u8/BeinSport10.m3u8
+#EXTINF:-1, BEIN HD 11
+http://95.170.215.120/hls/m3u8/BeinSport11.m3u8
+#EXTINF:-1, BEIN HD 12
+http://95.170.215.120/hls/m3u8/BeinSport12.m3u8
+#EXTINF:-1, BEIN HD 13
+http://95.170.215.120/hls/m3u8/BeinSport13.m3u8
+#EXTINF:-1, BEIN HD 14
+http://95.170.215.120/hls/m3u8/BeinSport14.m3u8
+#EXTINF:-1, BEIN HD 15
+http://95.170.215.120/hls/m3u8/BeinSport15.m3u8
+#EXTINF:-1, BEIN HD 16
+http://95.170.215.120/hls/m3u8/BeinSport16.m3u8
+#EXTINF:-1, HBO
+http://95.170.215.118/hls/m3u8/HBO.m3u8
+#EXTINF:-1,HBO 2
+http://95.170.215.118/hls/m3u8/HBO-2.m3u8
+#EXTINF:-1,HBO 3
+http://95.170.215.118/hls/m3u8/HBO-3.m3u8
+#EXTINF:-1,Sky movies ACTION
+http://95.170.215.118/hls/m3u8/Sky-MoviesAction.m3u8
+#EXTINF:-1,Sky movies PREMIERE
+http://95.170.215.118/hls/m3u8/Sky-MoviesPremie.m3u8
+#EXTINF:-1,Sky movies SELECT
+http://95.170.215.118/hls/m3u8/Sky-MoviesSelect.m3u8
+#EXTINF:-1,Sky Cinema Premier
+http://95.170.215.118/hls/m3u8/Sky-MoviesPremie.m3u8
